@@ -8,7 +8,6 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
@@ -24,17 +23,21 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 - See all testimonials in a horizontal slider
-- Receive an error message when the newsletter sign up `form` is submitted if:
-  - The `input` field is empty
-  - The email address is not formatted correctly
+- Build the page using Tailwind CSS
 
 ### Screenshot
 
-...
+Hero section of the page
+
+![](./screenshots/Desktop.png)
+
+![](./screenshots/Mobile.png)
+
+![](./screenshots/MobileHamburgerMenu.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://manage-lading-page.pages.dev/](https://manage-lading-page.pages.dev/)
 
 ## My process
 
@@ -42,36 +45,14 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Tailwind CSS
-- Flexbox
-- CSS Grid
 - Mobile-first workflow
+- Flexbox
+- JavaScript
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+By building this project I learned more about Tailwind CSS, at the beginning it was pretty confusing for me. But after reading the docs and learning how it works, its classes, and creating new ones I was able to complete the challenge.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+Coded by Andony Nunez
