@@ -1,0 +1,24 @@
+{
+  "name": "manage-landing-page-master",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andonyn19/manage-lading-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andonyn19/manage-lading-page/issues"
+  },
+  "homepage": "https://github.com/andonyn19/manage-lading-page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
