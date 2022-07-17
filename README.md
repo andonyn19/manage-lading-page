@@ -37,7 +37,7 @@ Hero section of the page
 
 ### Links
 
-- Live Site URL: [https://manage-lading-page.pages.dev/](https://manage-lading-page.pages.dev/)
+- Live Site URL: [fm-mlp.pages.dev](https://fm-mlp.pages.dev/)
 
 ## My process
 
